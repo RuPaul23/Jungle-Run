@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: bd37c08839816b44d8f95a69391f4667
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera001
+    100004: hw_wandaoyou_daolu_01
+    100006: hw_wandaoyou_dimian_01
+    100008: hw_wandaoyou_peijing_01
+    100010: hw_wandaoyou_peijing_02
+    100012: hw_zhidao210_daolu_01
+    100014: hw_zhidao210_daolu_02
+    100016: hw_zhidao210_daolu_03
+    100018: hw_zhidao210_dimian_01
+    100020: hw_zhidao210_dimian_02
+    100022: hw_zhidao210_dimian_03
+    100024: hw_zhidao210_peijing_01
+    100026: hw_zhidao210_peijing_02
+    100028: hw_zhidao210_peijing_03
+    100030: hw_zhidao210_peijing_04
+    100032: hw_zhidao210_peijing_05
+    100034: hw_zhidao210_peijing_06
+    100036: Line216
+    400000: //RootNode
+    400002: Camera001
+    400004: hw_wandaoyou_daolu_01
+    400006: hw_wandaoyou_dimian_01
+    400008: hw_wandaoyou_peijing_01
+    400010: hw_wandaoyou_peijing_02
+    400012: hw_zhidao210_daolu_01
+    400014: hw_zhidao210_daolu_02
+    400016: hw_zhidao210_daolu_03
+    400018: hw_zhidao210_dimian_01
+    400020: hw_zhidao210_dimian_02
+    400022: hw_zhidao210_dimian_03
+    400024: hw_zhidao210_peijing_01
+    400026: hw_zhidao210_peijing_02
+    400028: hw_zhidao210_peijing_03
+    400030: hw_zhidao210_peijing_04
+    400032: hw_zhidao210_peijing_05
+    400034: hw_zhidao210_peijing_06
+    400036: Line216
+    2000000: Camera001
+    2100000: hw_dixing
+    2100002: hw_peijing_02
+    2100004: hw_peijing_01
+    2100006: hw_dixing_02
+    2300000: hw_wandaoyou_daolu_01
+    2300002: hw_wandaoyou_dimian_01
+    2300004: hw_wandaoyou_peijing_01
+    2300006: hw_wandaoyou_peijing_02
+    2300008: hw_zhidao210_daolu_01
+    2300010: hw_zhidao210_daolu_02
+    2300012: hw_zhidao210_daolu_03
+    2300014: hw_zhidao210_dimian_01
+    2300016: hw_zhidao210_dimian_02
+    2300018: hw_zhidao210_dimian_03
+    2300020: hw_zhidao210_peijing_01
+    2300022: hw_zhidao210_peijing_02
+    2300024: hw_zhidao210_peijing_03
+    2300026: hw_zhidao210_peijing_04
+    2300028: hw_zhidao210_peijing_05
+    2300030: hw_zhidao210_peijing_06
+    3300000: hw_wandaoyou_daolu_01
+    3300002: hw_wandaoyou_dimian_01
+    3300004: hw_wandaoyou_peijing_01
+    3300006: hw_wandaoyou_peijing_02
+    3300008: hw_zhidao210_daolu_01
+    3300010: hw_zhidao210_daolu_02
+    3300012: hw_zhidao210_daolu_03
+    3300014: hw_zhidao210_dimian_01
+    3300016: hw_zhidao210_dimian_02
+    3300018: hw_zhidao210_dimian_03
+    3300020: hw_zhidao210_peijing_01
+    3300022: hw_zhidao210_peijing_02
+    3300024: hw_zhidao210_peijing_03
+    3300026: hw_zhidao210_peijing_04
+    3300028: hw_zhidao210_peijing_05
+    3300030: hw_zhidao210_peijing_06
+    4300000: hw_zhidao210_daolu_01
+    4300002: hw_zhidao210_peijing_04
+    4300004: hw_zhidao210_peijing_06
+    4300006: hw_zhidao210_peijing_01
+    4300008: hw_zhidao210_peijing_02
+    4300010: hw_zhidao210_peijing_03
+    4300012: hw_zhidao210_peijing_05
+    4300014: hw_wandaoyou_peijing_01
+    4300016: hw_wandaoyou_peijing_02
+    4300018: hw_wandaoyou_daolu_01
+    4300020: hw_zhidao210_daolu_02
+    4300022: hw_zhidao210_daolu_03
+    4300024: hw_zhidao210_dimian_01
+    4300026: hw_wandaoyou_dimian_01
+    4300028: hw_zhidao210_dimian_03
+    4300030: hw_zhidao210_dimian_02
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hw_dixing
+    second: {fileID: 2100000, guid: bbeac88448da256428f4f1f89b49ee35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hw_dixing_02
+    second: {fileID: 2100000, guid: 49f9376144e879a458017adbd089ee27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hw_peijing_01
+    second: {fileID: 2100000, guid: b774834dc6211ce49be37652bbb2e48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hw_peijing_02
+    second: {fileID: 2100000, guid: e6eeb79b3d0694e45bbc8b0981c45470, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: 11(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_daolu_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_04
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 210}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_06
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 420}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_02
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_03
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 210}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_peijing_05
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 420}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_wandaoyou_peijing_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 630}
+      rotation: {x: 0.000000021855694, y: -0.00000008742278, z: 1.9106855e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_wandaoyou_peijing_02
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 630}
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_wandaoyou_daolu_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 630}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_daolu_02
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 210}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_daolu_03
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 420}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_dimian_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Line216
+      parentName: 11(Clone)
+      position: {x: 29.353832, y: 5.2334375, z: 137.99257}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera001
+      parentName: 11(Clone)
+      position: {x: -0.17693847, y: 5.2334375, z: 9.28164}
+      rotation: {x: 0.21791638, y: -0.022128135, z: 0.0009314865, w: 0.9757161}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_wandaoyou_dimian_01
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 630.0003}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_dimian_03
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 420}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hw_zhidao210_dimian_02
+      parentName: 11(Clone)
+      position: {x: -0, y: 0, z: 209.99982}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
